@@ -17,6 +17,8 @@
   </a>
   <img src="https://img.shields.io/badge/Platform-Kali%20Linux-purple?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/v/release/mantrapatil03/Simple-IDS?style=for-the-badge">
+
 </p>
 
 ---
